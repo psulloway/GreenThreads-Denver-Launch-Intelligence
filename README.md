@@ -52,69 +52,63 @@ Knowledge Files
 
 Core case and decision rules
 
-greenthreads_case_brief_canonical.md
+[Uploading greenthreads_case_brief_canonical.md…]
 
-GT-03-COMPANY-MARKET.md
+[Uploading GT-03-COMPANY-MARKET.md…]
 
-GT-04-PRODUCT-SUPPLY.md
+[Uploading GT-04-PRODUCT-SUPPLY.md…]
 
-GT-05-AI-BUDGET-DATA.md
+[Uploading GT-05-AI-BUDGET-DATA.md…]
 
-GT-06-DECISION-RULES.md
+[Uploading GT-06-DECISION-RULES.md…]
 
 Marketing and customer evidence
 
-GT_MarketingA_Channel_Performance - GT_MarketingA_Channel_Performance (3).csv
+[Uploading GT_MarketingA_Channel_Performance - GT_MarketingA_Channel_Performance (3).csv…]
 
-Sources_MarketingA.md
+[Uploading Sources_MarketingA.md…]
 
-GT_MarketingB_Customers - GT_MarketingB_Customers.csv
+[Uploading GT_MarketingB_Customers - GT_MarketingB_Customers.csv…]
 
-Sources_MarketingB.md
+[Uploading Sources_MarketingB.md…]
 
-AI-Assisted Denver Launch Intelligence System for GreenThreads.md
+[Uploading AI-Assisted Denver Launch Intelligence System for GreenThreads.md…]
 
-AI-Assisted Multichannel Launch and Activation System for GreenThreads.md
+[Uploading AI-Assisted Multichannel Launch and Activation System for GreenThreads.md…]
 
 Finance and budget evidence
 
-GT_Finance_Denver_Budget - GT_Finance_Denver_Budget (1).csv
+[Uploading GT_Finance_Denver_Budget - GT_Finance_Denver_Budget (1).csv…]
 
-GT_Finance_Spend_Transactions - GT_Finance_Spend_Transactions.csv
+[Uploading GT_Finance_Spend_Transactions - GT_Finance_Spend_Transactions.csv…]
 
-GT_Finance_Austin_Store_Daily - GT_Finance_Austin_Store_Daily.csv
+[Uploading GT_Finance_Austin_Store_Daily - GT_Finance_Austin_Store_Daily.csv…]
 
-Sources_Finance.md
+[Uploading Sources_Finance.md…]
 
 Operations and inventory evidence
 
-GT_SKU_Catalog - GT_SKU_Catalog.csv
+[Uploading GT_SKU_Catalog - GT_SKU_Catalog.csv…]
 
-GT_Ops_Inbound_Shipments - GT_Ops_Inbound_Shipments.csv
+[Uploading GT_Ops_Inbound_Shipments - GT_Ops_Inbound_Shipments.csv…]
 
-Sources_Operations.md
+[Uploading Sources_Operations.md…]
 
 HR and store-readiness evidence
 
-Sources_HR.md
+[Uploading Sources_HR.md…]
 
-GT_HR_Denver_Applicants - GT_HR_Denver_Applicants.csv
+[Uploading GT_HR_Denver_Applicants - GT_HR_Denver_Applicants.csv…]
 
-GT_HR_Sales Associate Offer Letter_Week03.md
+[Uploading GT_HR_Sales Associate Offer Letter_Week03.md…]
 
 Store and lease evidence
 
-GT_Denver_Lease_Week03.md
+[Uploading GT_Denver_Lease_Week03.md…]
 
 Previous course work and assignment documentation
 
-AI205_Final_Capstone_Presentation.docx (1).md
-
-AI205_HW5_Executive_Brief_and_Portfolio.docx.md
-
-AI205_HW3_Data_Intelligence_Project.docx.md
-
-AI205_HW4_Custom_Assistant_Build (1).md
+[Uploading AI205_HW3_Data_Intelligence_Project.docx.md…]
 
 Original Guardrails
 
